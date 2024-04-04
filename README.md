@@ -12,6 +12,7 @@ This is a simple keylogger application implemented in Python using Tkinter for t
 cd keylogger'
 ## Install Dependencies:
 pip install pynput
+pip install tk
 ## Run the Application:
 python keylogger.py
 ## GUI Usage:
